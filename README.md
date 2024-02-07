@@ -3,11 +3,22 @@
 #### Supervisor : Dr. Deva U Priyakumar
 
 ### Project Overview
-
 Our project, titled "A Large-Scale Comparison and Performance Study of Protein Binding Sites Detection Algorithms," aimed to comprehensively assess the efficacy of various protein binding site detection algorithms. Protein binding sites play a crucial role in understanding molecular interactions and are instrumental in drug design, structural biology, and bioinformatics research.
+
 The primary objective of our study was to evaluate and compare the performance of multiple detection algorithms across a diverse set of protein structures. By analyzing a wide range of algorithms, we sought to provide insights into their strengths, weaknesses, and applicability in real-world scenarios. Through this analysis, we aimed to enhance algorithmic understanding and aid researchers in selecting the most suitable algorithm for their specific research needs.
+
+Each team member was assigned specific tasks, and I initially undertook the responsibility of scraping data (.pdb files) from designated websites, including DEPTH, CASTP, GHECOM, and PASS. However, due to challenges encountered by other team members in performing their assigned tasks, I extended my role to include data scraping from additional sources, namely METAPOCKET, POCASSA, and SURFNET.
+
+While my initial contribution focused on data acquisition, the complete analysis phase was allocated to other team members as part of their Master's project.
+
 Our approach involved scraping data from several protein databases and employing rigorous analysis techniques to assess the performance of each algorithm. By leveraging Python scripting and data processing tools, we streamlined the data collection process, ensuring a robust dataset for analysis. This meticulous approach enabled us to evaluate a significant number of protein structures and platforms, resulting in a comprehensive comparison that advanced the field's understanding by 25%.
+
 Overall, our project contributed to the ongoing research in protein binding site detection by providing valuable insights into algorithmic performance and facilitating informed decision-making for researchers and practitioners in the field of bioinformatics and structural biology.
+
+
+
+
+
 
 ### Team Collaboration 
 Our team of four members worked closely together, emphasizing clear communication and mutual support. While we initially had specific tasks assigned, we remained flexible, readily assisting one another as needed. Regular meetings facilitated progress tracking and issue resolution. We utilized collaborative tools to streamline workflow and ensure efficient coordination. Our collaborative mindset and effective communication fostered a positive team dynamic, enabling us to achieve our goals effectively.
